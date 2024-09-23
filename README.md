@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JacekZgud
 - 👀 I’m interested in Statistics and Data Analysis 
-- 🌱 I’m currently learning Python and looking forward to try something new in a field. 
+- 🌱 Currently, I focus on DNNs.
